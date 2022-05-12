@@ -1,6 +1,7 @@
 # Lofi-Funkin-Macos
 This is the Lofi mod for FnF but built for mac instead of windows
 
+Here's the download link since Github can't hold that many files - https://mega.nz/folder/mbpi3TQT#nw-iJ-b1iG0ZDPm3PM9WFQ
 
 In the case that you're running this on a school macbook and can't run games without permissions, simply right click or double finger click the Lofi-Funkin file you download here and show package contents. After this create a new folder on your desktop or wherever you're storing your games you can leave it untitled for now. Drag the files you found in the package contents earlier into the new untitled folder. You can now rename that new folder to "Lofi-Funkin.app" then press the keep button to keep it as .app.
 
